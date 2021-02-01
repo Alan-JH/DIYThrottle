@@ -1,6 +1,8 @@
 # DIYThrottle
 Work in progress flight sim throttle design
 
+Version numbers are from Fusion, so they may not increase one by one.
+
 Hats are JFlyer81's 4/5 way hats: https://www.thingiverse.com/thing:4543158
 
 Two way switch on the middle finger is a modified version of Huzarski's hat switch (namely, it is a modified version of his "Body #B" which can be used for 2 or 3 way switches: https://www.thingiverse.com/thing:3641494
