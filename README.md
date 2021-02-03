@@ -30,6 +30,10 @@ Addition of screw and nut holes for M4 and M2 nuts and bolts to keep the grip to
 
 2x 685ZZ Bearings for the detent rollers
 
+2x 5x5x10mm neodymium magnets
+
+2x RC shocks for damping (130mm between centers of mounting holes, remove springs, recommend using 70wt shock oil)
+
 Assorted M5x8, M4, M3, M2, M2.5 (optional) nuts and bolts of lengths ranging from 8 to 20mm for the M2-M4 bolts and 8 to 40mm for the M5 bolts. I will provide a complete count once I am done with the design
 
 2x 0.6x7x25mm expansion screws with hooks for the fingerlifts
@@ -49,7 +53,5 @@ Shift register board (PCB files included)
 a cheap ebay pushbutton with no tactile feedback for the pinkie button
 
 **FUTURE ADDITIONS:**
-
-Planning on adding a 130mm RC shock without spring for damping
 
 Will design a frame later on
