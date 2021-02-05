@@ -32,6 +32,8 @@ Addition of screw and nut holes for M4 and M2 nuts and bolts to keep the grip to
 
 2x 5x5x10mm neodymium magnets
 
+2x KMA 210 Magnoresistive sensors
+
 2x RC shocks for damping (130mm between centers of mounting holes, remove springs, recommend using 70wt shock oil)
 
 Assorted M5x8, M4, M3, M2, M2.5 (optional) nuts and bolts of lengths ranging from 8 to 20mm for the M2-M4 bolts and 8 to 40mm for the M5 bolts. I will provide a complete count once I am done with the design
@@ -48,7 +50,7 @@ Shift register board (PCB files included)
 
 15-18 6x6x4.3mm tact switches
 
-2x OTTO P1-11112 Pushbutton (probably)
+2x OTTO P1-1 or P3-1 Pushbutton (2.5lb actuation recommended)
 
 a cheap ebay pushbutton with no tactile feedback for the pinkie button
 
