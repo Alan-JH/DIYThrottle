@@ -56,4 +56,4 @@ a cheap ebay pushbutton with no tactile feedback for the pinkie button
 
 **FUTURE ADDITIONS:**
 
-Will design a frame later on
+Currently designing a frame, to be made of 2020 aluminum extrusion.
