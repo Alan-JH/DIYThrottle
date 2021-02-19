@@ -40,7 +40,7 @@ Assorted M5x8, M4, M3, M2, M2.5 (optional) nuts and bolts of lengths ranging fro
 
 2x 0.6x7x25mm expansion screws with hooks for the fingerlifts
 
-Approx 2x 30x45mm and 2x 30x40mm felt pads
+Approx 2x 30x45mm and 2x 30x40mm felt pads for friction pads, recommend greasing with Nyogel 767A
 
 Loads of PETG filament
 
@@ -57,3 +57,15 @@ a cheap ebay pushbutton with no tactile feedback for the pinkie button
 **FUTURE ADDITIONS:**
 
 Currently designing a frame, to be made of 2020 aluminum extrusion.
+
+-2020 Extrusion corners
+
+-M5 and M4 T nuts and screws
+
+-approx 3.7m of 2020 extrusion, some with ends tapped
+
+-T plates
+
+-Bessey STC-IHH 25 toggle clamp
+
+-printed or wood panels
