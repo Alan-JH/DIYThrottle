@@ -50,6 +50,8 @@ Shift register board (PCB files included)
 
 15-18 6x6x4.3mm tact switches
 
+2x 20mm endstop switches for OFF/IDLE binds, 4x 20mm endstop switches for hook and gear levers by JumpNShootMan (https://www.thingiverse.com/thing:4645392)
+
 2x OTTO P1-1 or P3-1 Pushbutton (2.5lb actuation recommended)
 
 a cheap ebay pushbutton with no tactile feedback for the pinkie button
