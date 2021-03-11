@@ -38,7 +38,7 @@ Addition of screw and nut holes for M4 and M2 nuts and bolts to keep the grip to
 
 Assorted M5x8, M4, M3, M2, M2.5 (optional) nuts and bolts of lengths ranging from 8 to 20mm for the M2-M4 bolts and 8 to 40mm for the M5 bolts. I will provide a complete count once I am done with the design
 
-2x 0.6x7x25mm expansion screws with hooks for the fingerlifts
+2x 0.6x7x25mm expansion springs with hooks for the fingerlifts
 
 Approx 2x 30x45mm and 2x 30x40mm felt pads for friction pads, recommend greasing with Nyogel 767A
 
@@ -56,18 +56,14 @@ Shift register board (PCB files included)
 
 a cheap ebay pushbutton with no tactile feedback for the pinkie button
 
-**FUTURE ADDITIONS:**
+2020 Extrusion corners
 
-Currently designing a frame, to be made of 2020 aluminum extrusion.
+M5 and M4 T nuts and screws
 
--2020 Extrusion corners
+approx 3.7m of 2020 extrusion, some with ends tapped
 
--M5 and M4 T nuts and screws
+T plates
 
--approx 3.7m of 2020 extrusion, some with ends tapped
+Bessey STC-IHH 25 toggle clamp
 
--T plates
-
--Bessey STC-IHH 25 toggle clamp
-
--printed or wood panels
+Working on panels
