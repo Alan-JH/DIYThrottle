@@ -1,6 +1,6 @@
 //Firmware for Tacsim throttle
 //Alan H.
-//17 April 2021
+//23 April 2021
 
 //Libraries:
 //bbSPI for using shift registers by Nick Gammon http://www.gammon.com.au/Arduino/bitBangedSPI.zip
