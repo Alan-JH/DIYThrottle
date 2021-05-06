@@ -1,5 +1,7 @@
 # DIYThrottle
-Work in progress flight sim throttle design
+Flight sim throttle design
+
+I probably wont be uploading better documentation, as it is more difficult and boring than I expected. Sorry.
 
 Version numbers are from Fusion, so they may not increase one by one.
 
